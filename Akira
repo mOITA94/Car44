@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Album title goes here</title>
+        <script type="text/javascript">
+            document.write("Hi");
+        </script>
+    </head>
+    <body>
+        <h1>H1 Tag Head size</h1>
+        <h2>H2 Tag</h2>
+        <h3>H3 Tag</h3>
+        <h4>H4 Tag</h4>
+        <h5>H5 Tag</h5>
+        <h6>H6 Tag Text size</h6>
+
+        <img src="akira.jpg" alt="akira bike slide" width="600">
+    </body>
+    <script>
+        window.onload = function() {
+            console.log("antonio fagundes");
+        };
+        
+    </script>
+</html>
